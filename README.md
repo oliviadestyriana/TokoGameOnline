@@ -6,19 +6,15 @@ ANGGOTA:
 1917051004 - Salsabilla Julia Farhana
 PEMBAGIAN TUGAS:
 1. Olivia Desti Riana / 1917051044 
-(-Membuat Codingan Program main, fxml dan cintroller, MYSQLConnection Database, Interface,  MengUpload file  build
--impl.xml ,  genfiles.properties, jfx-impl.xml , project.properties, project.xml)
+(-Membuat isi Redme.md,Membuat Codingan Program main, fxml, cart.fxml, checkout.fxml, library.fxml,product.java, imagetextcell.java MYSQLConnection Database, Interface, MengUpload folder build, -Mengupload file manifest.mf)
 
 
 2. Zahara Liza Mulyani / 1917051028 
-(-Membuat isi Redme.md -membuat sql, code program 
-SistemGudang.java,SistemGudangDataModel.java 
--Mengapload file project.xml, Akun.java, CorporateHolder.java, IndividualHolder.java,  Main.java , SistemGudang.java, SistemGudangDataModel.java, SistemGudangForm.fxml, SistemGudangFormController.java)
+(-Membuat isi Redme.md -membuat sql, kodingan accountcontroller.java, cartcontroller.java, logincontroller.java, registercontroller.java , customer.java, productqueries.java -Mengapload folder src, dist, -Mengupload file gamestore_fx_db.sql)
 
 
 3. Salsabilla Julia Farhana / 1917051004 
-(-Membuat isi Redme.md, code programCorporateHolder.java, IndividualHolder.java, -design class diagram untuk java FX - membuat Database, 
--Mengapload file gitignore , SisGudang.sqlite,  build.xml,   manifest.mf, master)
+(-Membuat isi Redme.md, kodingan checkoutcontroller.java, librarycontroller.java, login.fxml,register.fxml  -design class diagram untuk java FX - membuat Database, -Mengapload folder nbproject, screenshot, -Mengupload file build)
 
 # CLASS DIAGRAM
 ```mermaid
