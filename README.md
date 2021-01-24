@@ -101,3 +101,9 @@ erDiagram
       double balance
           }
 ```
+# REFERENSI
+https://www.codingparks.com/how-to-create-book-shop-management-system-in-java-javafx/
+https://docs.oracle.com/javafx/2/api/javafx/scene/doc-files/cssref.html
+https://stackoverflow.com/questions/7880410/best-reference-for-javafx-css-properties-selectors
+https://www.posciety.com/cara-menampilkan-gambar-di-java-netbeans-ide/
+https://examples.javacodegeeks.com/desktop-java/javafx/scene/javafx-scene-builder-tutorial/
